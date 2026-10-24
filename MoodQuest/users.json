@@ -1,0 +1,9 @@
+{
+  "sair75473@gmail.com": {
+    "name": "harinivaas",
+    "salt": "4cabc00983f84dc6f16fbf0f82cc93d7",
+    "hash": "e3f15a97f469205070cabbc371b63d0272566c7d32a2f9792d86829c8ad39ae3",
+    "is_dev": true,
+    "provider": "password"
+  }
+}

@@ -1,0 +1,6 @@
+streamlit
+pandas
+# Optional extras (the app works without them):
+# streamlit-sortables     -> drag and drop page layout in Developer mode
+# Authlib                 -> "Continue with Google" (also needs .streamlit/secrets.toml)
+# transformers torch pillow scikit-learn opencv-python   -> face expression model, face crop, Face Lab training
